@@ -7,6 +7,7 @@ public class Second {
 		
 		System.out.print("second");
 		System.out.print("third");
+		System.out.print("fourth");
 	}
 	
 	
